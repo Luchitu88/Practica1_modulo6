@@ -1,0 +1,11 @@
+Practica 1 Vue3
+
+Nombres de los integrantes:
+- Luis Carlos Iturricha
+- Rodrigo Moldes
+- Silvia Vigabriel
+
+Pasos para iniciar el proyecto
+
+1) npm install
+2) npm run serve
